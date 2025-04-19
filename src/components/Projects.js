@@ -7,7 +7,7 @@ const dataProjects = [
     deskripsi: "Website pribadi untuk menampilkan informasi diri dan proyek.",
     waktu: "Apr 2025 - Apr 2025",
     teknologi: "React, CSS, JavaScript",
-    screenshot: "/media/website.png", // pastikan file-nya ada di /public/images/
+    screenshot: process.env.PUBLIC_URL + "/media/website.png", // pastikan file-nya ada di /public/images/
     github: "https://github.com/FarisyIlman",
   },
   {
@@ -15,7 +15,7 @@ const dataProjects = [
     deskripsi: "Simulasi Smart Home menggunakan Blynk dan ESP32.",
     waktu: "Apr 2024 - Jun 2024",
     teknologi: "Arduino, Blynk, ESP32",
-    screenshot: "/media/rumah.jpg",
+    screenshot: process.env.PUBLIC_URL +  "/media/rumah.jpg",
     github: "https://github.com/FarisyIlman",
   },
   {
@@ -23,7 +23,7 @@ const dataProjects = [
     deskripsi: "Simulasi Smart Home menggunakan Blynk dan ESP32.",
     waktu: "May 2024 - Jun 2024",
     teknologi: "Arduino, RFID, ESP32",
-    screenshot: "/media/celengan.jpg",
+    screenshot: process.env.PUBLIC_URL +  "/media/celengan.jpg",
     github: "https://github.com/FarisyIlman",
   },
 ];
