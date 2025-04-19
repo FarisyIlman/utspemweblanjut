@@ -1,0 +1,25 @@
+.footer {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+    padding: 2rem 1rem;
+    text-align: center;
+    font-size: 0.95rem;
+    border-top: 2px solid #333;
+    margin-top: 3rem;
+  }
+  
+  .footer-content p {
+    margin: 0.3rem 0;
+  }
+  
+  .tech {
+    color: #61dafb; /* warna khas React */
+    font-weight: bold;
+  }
+  
+  .social {
+    margin-top: 0.5rem;
+    font-style: italic;
+    color: #aaa;
+  }
+  

@@ -1,0 +1,35 @@
+.contact-section {
+    padding: 2rem;
+    background: linear-gradient(135deg, #1f1c2c, #928dab); /* gradasi warna ungu gelap ke abu keren */
+    color: #ffffff;
+    border-radius: 12px;
+    margin: 2rem auto;
+    max-width: 800px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  }
+  
+  .contact-section h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  
+  .contact-info p {
+    margin: 0.6rem 0;
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+  
+  .contact-info a {
+    color: #aad8ff;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  
+  .contact-info a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+  
