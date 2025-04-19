@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/utspemweblanjut/static/css/main.42c97d6b.css",
+    "main.js": "/utspemweblanjut/static/js/main.9511ef3e.js",
+    "static/js/453.2f912453.chunk.js": "/utspemweblanjut/static/js/453.2f912453.chunk.js",
+    "index.html": "/utspemweblanjut/index.html",
+    "main.42c97d6b.css.map": "/utspemweblanjut/static/css/main.42c97d6b.css.map",
+    "main.9511ef3e.js.map": "/utspemweblanjut/static/js/main.9511ef3e.js.map",
+    "453.2f912453.chunk.js.map": "/utspemweblanjut/static/js/453.2f912453.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42c97d6b.css",
+    "static/js/main.9511ef3e.js"
+  ]
+}
