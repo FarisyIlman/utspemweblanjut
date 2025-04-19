@@ -2,11 +2,11 @@ import React, { useState, useEffect } from 'react';
 import './Home.css';
 
 const imageList = [
-  '/media/img0.jpg',
-  '/media/img1.jpg',
-  '/media/img2.jpg',
-  '/media/img3.jpg',
-  '/media/img4.jpg'
+  process.env.PUBLIC_URL + '/media/img0.jpg',
+  process.env.PUBLIC_URL + '/media/img1.jpg',
+  process.env.PUBLIC_URL + '/media/img2.jpg',
+  process.env.PUBLIC_URL + '/media/img3.jpg',
+  process.env.PUBLIC_URL + '/media/img4.jpg'
 ];
 
 function Home() {
